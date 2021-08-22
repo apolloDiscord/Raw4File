@@ -1,9 +1,9 @@
 ## Olá, Eu sou o Iruka.
 
 <div>
-  <a href="https://github.com/Irukka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irukka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irukka&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/IIruka">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IIruka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIruka&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
