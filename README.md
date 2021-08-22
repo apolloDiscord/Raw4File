@@ -1,9 +1,9 @@
-## Olá, Eu sou o Shiryu.
+## Olá, Eu sou o Irukka.
 
 <div>
-  <a href="https://github.com/Shiryu54">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiryu54&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu54&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Irukka">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irukka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irukka&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
