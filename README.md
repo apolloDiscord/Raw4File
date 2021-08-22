@@ -1,4 +1,4 @@
-## Olá, Eu sou o Irukka.
+## Olá, Eu sou o Iruka.
 
 <div>
   <a href="https://github.com/Irukka">
